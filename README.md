@@ -2,7 +2,7 @@
 
 A first-person horror game built in Unity with procedurally generated maze-like environments, atmospheric lighting, and enemy AI.
 
-![Dread Halls Screenshot](screenshots/screenshot.png)
+![Dread Halls Screenshot](Screenshots/screenshot.png)
 
 ## Description
 
